@@ -5,7 +5,11 @@ import Moon from "../../img/moon.png"
 
 export const Toggle = () => {
   return (
-    <div>Toggle</div>
+    <div className="t">
+    <img src={Sun} alt="sun" className="t-icon"/>
+    <img src={Moon} alt="moon" className="t-icon"/>
+    <div className='t-button'></div>
+    </div>
   )
 }
 
