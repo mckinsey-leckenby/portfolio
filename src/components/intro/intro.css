@@ -101,4 +101,13 @@
     .i-desc{
         display: none
     }
+    .i-bg{
+        display: none
+    }
+    .i-img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        position: absolute;
+    }
 }
