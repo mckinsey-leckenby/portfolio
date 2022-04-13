@@ -46,8 +46,14 @@
 }
 .sub{
     padding: 10px;
-
-    
+}
+button{
+    border: none;
+    padding: 15px;
+    background-color:rgb(143, 127, 74);
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
     
 }
 .a-desc{

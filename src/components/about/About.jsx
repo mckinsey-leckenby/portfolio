@@ -17,7 +17,7 @@ export const About = () => {
     <div className='a-right'>
         <h1 className='a-title'>About Me</h1>
        <p className='a-sub'>
-       My name is McKinsey and I love living in Chicago. 
+       My name is McKinsey and I live in Chicago. 
        </p>
        <p className='a-desc'>
  
@@ -37,7 +37,9 @@ Ruby and plus modern libraries and frameworks such as ReactJs, and Rails.
 </ul>
 </p>
        </p>
-
+       {/* <a href="McKinsey Chicago Leckenby Resume.pdf">
+       <button>Resume</button>
+       </a> */}
     </div>
     </div>
 
