@@ -17,13 +17,29 @@
 .a-right{
     flex:1;
 }
-.a-card.bg{
+/* .a-card.bg{
    position: absoute;
    top: 50px;
    left: 50px;
    background-color: #333;
+} */
 
-}
+
+.a-card.bg{
+    
+    /* clip-path: polygon(26% 0, 3% 91%, 87% 50%); */
+    /* clip-path: polygon(16% 0, 0 90%, 87% 50%); */
+
+    clip-path: polygon(16% 0, 0 90%, 100% 73%);
+
+    background-color:rgb(140, 127, 85) ;
+    width: 96%;
+    height: 96%;
+    position: absolute;
+    top: 0;
+    right: 0;  
+
+ }
 .a-card{
     width: 60%;
     height: 70vh;
@@ -73,9 +89,10 @@ button{
     .a-card{
         height: 45vh
     }
-    .a-card.bg {
-        display: none
-    }
+    /* .a-card.bg {
+        height: 45vh;
+    } */
+   
     .a-right{
         padding: 20px
     }

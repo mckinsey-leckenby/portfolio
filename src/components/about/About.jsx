@@ -30,7 +30,7 @@ Ruby and plus modern libraries and frameworks such as ReactJs, and Rails.
 <p className='sub'>Apart from coding and creating I enjoy,
 <ul>
 <li>Runs by the water</li>
-<li>Cooking with my girlfriend</li>
+<li>Cooking with my beautiful girlfriend</li>
 <li>Big cities</li>
 <li>A good book</li>
 <li>Spending time with my younger brothers</li>
