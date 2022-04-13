@@ -4,6 +4,7 @@ import About from "./components/about/About"
 import Contact from "./components/contact/Contact";
 import Toggle from "./components/toggle/Toggle"
 import { ThemeContext } from "./context";
+import ProductList from "./components/productList/ProductList";
 
 
 const App = () => {
@@ -18,6 +19,7 @@ return(
   <Toggle/>
   <Intro/>
   <About/>
+  <ProductList/>
   <Contact/>
 
   </div>)

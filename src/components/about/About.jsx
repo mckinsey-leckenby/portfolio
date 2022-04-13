@@ -17,15 +17,25 @@ export const About = () => {
     <div className='a-right'>
         <h1 className='a-title'>About Me</h1>
        <p className='a-sub'>
-           A reader will read this
+       My name is McKinsey and I love living in Chicago. 
        </p>
        <p className='a-desc'>
-       Lorem ipsum dolor sit, amet 
-       consectetur adipisicing elit. Repellendus, 
-       eligendi dolore consectetur iure accusamus quod 
-       laudantium repudiandae perspiciatis doloremque, 
-       harum, minima voluptates similique nisi adipisci
-        aspernatur aliquid est veniam quaerat!
+ 
+
+I am a Software Engineer with experience in building and maintaining responsive websites.
+Proficient in HTML, CSS, JavaScript, 
+Ruby and plus modern libraries and frameworks such as ReactJs, and Rails.
+
+
+<p className='sub'>Apart from coding and creating I enjoy,
+<ul>
+<li>Runs by the water</li>
+<li>Cooking with my girlfriend</li>
+<li>Big cities</li>
+<li>A good book</li>
+<li>Spending time with my younger brothers</li>
+</ul>
+</p>
        </p>
 
     </div>

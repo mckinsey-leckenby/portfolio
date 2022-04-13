@@ -44,8 +44,16 @@
     margin: 20px, 0px;
 
 }
+.sub{
+    padding: 10px;
+
+    
+    
+}
 .a-desc{
+    padding: 10px;
     font-weight: 300;
+    margin: 20px, 0px;
 }
 @media screen and (max-width: 480px){
     .a{
@@ -64,5 +72,8 @@
     }
     .a-right{
         padding: 20px
+    }
+    .sub{
+        display: none;
     }
 }
