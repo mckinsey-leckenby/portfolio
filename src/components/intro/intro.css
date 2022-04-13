@@ -29,8 +29,8 @@
 .i-name{
     font-size: 50px;
     justify-content: center;
-    text-align: center;
-       
+    
+
 }
 
 .i-title{
@@ -92,15 +92,20 @@
 
     }
     .i-left-wrapper{
-        padding: 10px;
+        padding: 30px;
         justify-content: center;
         align-items: center;
         text-align: center;
         height: 100%
     }
-    .i-title-item{
-        align-items: center;
+    .i-intro{
+        padding: 10px
     }
+    .i-name{
+        padding: 10px
+    }
+   
+
     .i-desc{
         display: none
     }
