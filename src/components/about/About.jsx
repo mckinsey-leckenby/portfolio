@@ -46,6 +46,9 @@ export const About = () => {
             <a href={Resume} >
           <button>Resume</button>
         </a>
+        <a href="https://www.linkedin.com/in/mckinsey-leckenby/" >
+          <button>LinkedIn</button>
+        </a>
       
       </div>
         </div>
