@@ -64,7 +64,7 @@ textarea{
     padding-left: 10px;
 }
 
-button{
+.btn{
     border: none;
     padding: 15px;
     background-color:rgb(143, 127, 74);
@@ -102,7 +102,7 @@ button{
         margin-left: 0;
 
     }
-    button{
+    .btn{
         margin-top: 10px
     }
     

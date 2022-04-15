@@ -60,7 +60,7 @@ return (
                     <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Subject" name="user_subject" />
                     <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
                     <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
-                    <button>Submit</button>
+                    <button className='btn'>Submit</button>
                     {done && "Thank You..."}
                 </form>
             </div>

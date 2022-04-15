@@ -4,6 +4,23 @@
     align-items: center;
 
 }
+.a-btn{
+  flex-direction: column;
+   margin: 20px 10px;
+   align-items: center;
+}
+button{
+    border: none;
+    padding: 15px;
+    background-color:rgb(143, 127, 74);
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 10px;
+ 
+   
+}
 
 .a-left{
     flex:1;
@@ -64,15 +81,7 @@
 .sub{
     padding: 10px;
 }
-button{
-    border: none;
-    padding: 15px;
-    background-color:rgb(143, 127, 74);
-    color: white;
-    font-weight: 500;
-    cursor: pointer;
-    
-}
+
 .a-desc{
     padding: 10px;
     font-weight: 300;
@@ -97,7 +106,18 @@ button{
     .a-right{
         padding: 20px
     }
+    /* .a-desc{
+        font-size: 10px;
+    } */
     .sub{
         display: none;
     }
+        .btn{
+            margin-top: 10px;
+            margin-right: 100px;
+            font-size: 10px;
+            text-align: center;
+        }
+        
+    
 }

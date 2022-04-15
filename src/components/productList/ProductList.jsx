@@ -8,7 +8,7 @@ export const ProductList = () => {
     <div className='pl-texts'>
         <h1 className='pl-title'> Create & Inspire</h1>
         <p className='pl-desc'>
-            A creative portolio that your work has bee waiting for
+            Some of my work  
         </p>
     </div>
     <div className='pl-list'>
