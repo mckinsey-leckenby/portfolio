@@ -27,7 +27,7 @@ Proficient in HTML, CSS, JavaScript,
 Ruby and plus modern libraries and frameworks such as ReactJs, and Rails.
 
 
-<p className='sub'>Apart from coding and creating I enjoy,
+<p className='sub'>When I'm not coding or creating I enjoy,
 <ul>
 <li>Runs by the water</li>
 <li>Cooking with my beautiful girlfriend</li>
