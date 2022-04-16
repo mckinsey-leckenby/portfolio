@@ -6,9 +6,9 @@
 }
 .a-btn{
   flex-direction: column;
-   margin: 20px 10px;
+   margin: 10px 10px;
    
-   margin-left:100px;
+   margin-left:50px;
 }
 button{
     border: none;
@@ -81,7 +81,7 @@ button{
 
 }
 .sub{
-    padding: 10px;
+    padding: 20px;
 }
 
 .a-desc{
@@ -117,13 +117,17 @@ button{
     .a-btn{
         flex-direction: column;
          margin: 20px 10px;
-        
+         white-space: nowrap;
       }
     .btn{
         margin-top: 10px;
-        margin-right: 100px;
+        margin-right: 50px;
         font-size: 10px;
         text-align: center;
+        white-space: nowrap;
+    }
+    .a-card.bg{
+        display: none;
     }
         
     

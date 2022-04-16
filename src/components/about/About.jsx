@@ -49,6 +49,12 @@ export const About = () => {
         <a href="https://www.linkedin.com/in/mckinsey-leckenby/" >
           <button>LinkedIn</button>
         </a>
+        <a href="https://github.com/mckinsey-leckenby" >
+          <button>Github</button>
+        </a>
+        <a href="https://twitter.com/LeckenTek" >
+          <button>Twitter</button>
+        </a>
       
       </div>
         </div>
