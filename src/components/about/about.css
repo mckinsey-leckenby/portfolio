@@ -47,18 +47,12 @@ button{
     
     /* clip-path: polygon(26% 0, 3% 91%, 87% 50%); */
     /* clip-path: polygon(16% 0, 0 90%, 87% 50%); */
-
-    clip-path: polygon(16% 0, 0 90%, 100% 73%);
-
-    background-color:rgb(140, 127, 85) ;
-    width: 96%;
-    height: 96%;
-    position: absolute;
-    top: 0;
-    right: 0;  
-    border-radius: 30px;
-    margin-top: 30px
-
+ 
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        background-color: rgb(140, 127, 85);
+    
  }
 .a-card{
     width: 60%;
