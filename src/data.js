@@ -1,7 +1,7 @@
 export const products = [
     {
       id: 1,
-      img: "https://live.staticflickr.com/65535/52007767892_eb90433485_z.jpg",
+      img: "https://live.staticflickr.com/65535/52009245774_813a12a767.jpg",
       link: "https://mckinsey-leckenby.github.io/github-org-repo-app/",
     },
     {

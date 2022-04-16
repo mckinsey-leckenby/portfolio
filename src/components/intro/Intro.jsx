@@ -11,8 +11,8 @@ export const Intro = () => {
                     <h1 className='i-name'>McKinsey Leckenby</h1>
                     <div className='i-title'>
                         <div className='i-title-wrapper'>
+                            <div className='i-title-item'>Software Engineer</div>
                             <div className='i-title-item'>Web Developer</div>
-                            <div className='i-title-item'>Content Creator</div>
                             <div className='i-title-item'>JavaScript</div>
                             <div className='i-title-item'>React</div>
                             <div className='i-title-item'>Ruby on Rails</div>
