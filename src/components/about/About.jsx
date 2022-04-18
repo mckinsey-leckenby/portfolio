@@ -43,16 +43,16 @@ export const About = () => {
             
           </div>
           <div className='a-btn'>
-            <a href={Resume} >
+            <a href={Resume} target='_blank' >
           <button>Resume</button>
         </a>
-        <a href="https://www.linkedin.com/in/mckinsey-leckenby/" >
+        <a href="https://www.linkedin.com/in/mckinsey-leckenby/"  target='_blank'>
           <button>LinkedIn</button>
         </a>
-        <a href="https://github.com/mckinsey-leckenby" >
+        <a href="https://github.com/mckinsey-leckenby" target='_blank' >
           <button>Github</button>
         </a>
-        <a href="https://twitter.com/LeckenTek" >
+        <a href="https://twitter.com/LeckenTek" target='_blank' >
           <button>Twitter</button>
         </a>
       
