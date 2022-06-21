@@ -9,7 +9,8 @@ export const About = () => {
         <div className='a-card bg'></div>
         <div className='a-card'>
           <img
-            src="https://images.pexels.com/photos/3052400/pexels-photo-3052400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            //src="https://images.pexels.com/photos/3052400/pexels-photo-3052400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://bmkaratzas.files.wordpress.com/2017/01/gwb-manhattan-2-bmk_7220.jpg?w=624"
             alt=''
             className='a-img'
           />
