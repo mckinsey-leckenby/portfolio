@@ -46,7 +46,7 @@ return (
                     </div>
                     <div className='c-info-item'>
                         <img src={Location} alt="location" className='c-icon' />
-                        Chicago, IL
+                        New York, NY
                     </div>
                 </div>
             </div>
