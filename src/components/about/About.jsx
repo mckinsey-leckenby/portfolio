@@ -18,7 +18,7 @@ export const About = () => {
       <div className='a-right'>
         <h1 className='a-title'>About Me</h1>
         <p className='a-sub'>
-          My name is McKinsey and I live in Chicago.
+          My name is McKinsey and I live in New York.
         </p>
         <div className='a-desc'>
 
@@ -52,7 +52,7 @@ export const About = () => {
         <a href="https://github.com/mckinsey-leckenby" target='_blank' >
           <button>Github</button>
         </a>
-        <a href="https://twitter.com/LeckenTek" target='_blank' >
+        <a href="https://twitter.com/McKinseyTech" target='_blank' >
           <button>Twitter</button>
         </a>
       
